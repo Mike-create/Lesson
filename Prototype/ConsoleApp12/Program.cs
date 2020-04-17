@@ -6,7 +6,9 @@ namespace ConsoleApp12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!!@! "); // Тест комментария 
+            Console.WriteLine("!!!Hello World!!!@! "); // Тест комментария 
         }
+
+
     }
 }
